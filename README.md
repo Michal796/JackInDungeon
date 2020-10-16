@@ -31,3 +31,4 @@ Skrypty:
 - SwordController - klasa obsługuje miecz postaci.
 - Tile - klasa każdego obiektu typu Sprite, z którego zbudowana jest mapa.
 - TileCamera - klasa odpowiada za przetwarzanie oraz przechowywanie obiektów typu Tile.
+- Utils - klasa udostępniona przez autora wyżej wymienionej książki jako narzędzie do opracowania projektu.
